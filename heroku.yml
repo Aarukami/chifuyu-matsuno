@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: python3 -m Chifuyubot
+  worker: python3 -m chifuyu-matsuno
