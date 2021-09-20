@@ -40,7 +40,7 @@ Thanks To:
 
 
 
-The Support group can be reached out to at [Tangent](https://t.me/mhaprvt), where you can ask for help about [Chifuyu](https://t.me/Baji_X_chifuyu_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Mhapvt](https://t.me/mhaprvt), where you can ask for help about [Chifuyu](https://t.me/Baji_X_chifuyu_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Heroku Deploy</summary>
