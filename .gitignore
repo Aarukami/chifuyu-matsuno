@@ -1,7 +1,7 @@
-Chifuyubot/config.py
-Chifuyubot/*.session
-Chifuyubot/*.session-journal
-Chifuyubot/config.ini
+chifuyu-matsuno/config.py
+chifuyu-matsuno/*.session
+chifuyu-matsuno/*.session-journal
+chifuyu-matsuno/config.ini
 log.txt
 *.pyc
 .idea/
@@ -9,8 +9,8 @@ log.txt
 .pydevproject
 .directory
 .vscode
-Chifuyubot/modules/helper_funcs/temp.txt
-Chifuyubot/elevated_users.json
+chifuyu-matsuno/modules/helper_funcs/temp.txt
+chifuyu-matsuno/elevated_users.json
 start-3.6.bat
 *.session
 kangsticker.png
