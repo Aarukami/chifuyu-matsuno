@@ -1,3 +1,3 @@
-worker: python3 -m Chifuyubot
-web: python3 -m Chifuyubot
+worker: python3 -m chifuyu-matsuno
+web: python3 -m chifuyu-matsuno
 ps:scale worker=1
